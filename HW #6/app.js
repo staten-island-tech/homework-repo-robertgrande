@@ -1,1 +1,2 @@
-Array.from(document.querySelector())
+Array.from(document.querySelector('.list'));
+
